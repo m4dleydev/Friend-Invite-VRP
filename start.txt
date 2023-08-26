@@ -1,1 +1,1 @@
-Antes de Startar o Sistema Abra o Arquivo welcome.sql Copie e execute a criação da tabela no Seu banco de dados !
+Antes de Startar o Sistema Abra o Arquivo start.sql Copie e execute a criação da tabela no Seu banco de dados !
